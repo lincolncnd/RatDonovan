@@ -1,4 +1,6 @@
-RatDonovan is a new version of DC RAT. A simple remote Administrative tool in C#. but listen brothers ! IT IS PURELY FOR EDUCATIONAL PURPOSE.
+RatDonovan is a new version of DC RAT.<br>
+A simple remote Administrative tool in C#.<br>
+THIS IS PURELY FOR EDUCATIONAL PURPOSE ! <br>
 For any question: 
 <b>Telegram:</b> https://t.me/lincoln_cnd
-Email: cndtasks@proton.me
+
